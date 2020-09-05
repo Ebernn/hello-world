@@ -1,5 +1,5 @@
 # hello-world
 
-Hey,
+Hey, this is a test.
 
-this is a test. Good bye o/
+Good bye o/
